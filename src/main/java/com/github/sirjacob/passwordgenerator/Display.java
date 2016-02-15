@@ -14,6 +14,7 @@ public class Display extends javax.swing.JFrame {
      */
     public Display() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**
