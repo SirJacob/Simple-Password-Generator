@@ -1,4 +1,4 @@
-package com.github.sirjacob.passwordgenerator;
+package SirJacob.PasswordGenerator;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

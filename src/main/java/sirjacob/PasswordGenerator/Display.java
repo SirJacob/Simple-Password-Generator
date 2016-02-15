@@ -1,4 +1,4 @@
-package com.github.sirjacob.passwordgenerator;
+package SirJacob.PasswordGenerator;
 
 import java.awt.datatransfer.*;
 import java.awt.Toolkit;
